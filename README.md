@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **masterdanil**
+# 👋 Hi, I'm **masterdaniil**
 ### Backend Developer — Python
 
 I build robust backend systems and automate workflows with **Python**, deployed on **Linux/Docker** environments.
